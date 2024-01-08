@@ -7,3 +7,7 @@ for(let i = 1; i<=10; i++){
         }
     }
 }
+
+//Zadatak 3
+let jezici = ["JavaScript", "Python", "C", "C++", "Java"];
+jezici.forEach(jezik => console.log(jezik));
